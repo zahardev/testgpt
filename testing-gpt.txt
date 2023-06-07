@@ -1,0 +1,9 @@
+Question: 
+What color is the sky?
+Answer: 
+It is blue
+
+Question: 
+What is the speed of light?
+Answer: 
+Very fast
